@@ -124,7 +124,7 @@ We recommend you using [dvm](https://github.com/axetroy/dvm) for the manager Den
    }
    ```
 
-  <b>NOTE:</b> Do not place `tsconfig.json` on your project root. Currently it disables extension for some reason (should be fixed).
+   **NOTE:** Do not place `tsconfig.json` on your project root. Currently it disables extension for some reason (should be fixed).
 
 3. Enjoy!
 
